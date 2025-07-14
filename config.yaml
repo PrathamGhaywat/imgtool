@@ -1,0 +1,9 @@
+# Default configuration for imgtool
+# You can override these settings using command-line flags.
+
+to: "png"
+quality: 80
+# resize: "800x600"
+# watermark: "/path/to/your/watermark.png"
+# watermark-opacity: 75
+workers: 4
