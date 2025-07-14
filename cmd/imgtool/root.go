@@ -13,7 +13,7 @@ var cfgFile string
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
 	Use:   "imgtool",
-	Short: "A CLI tool for image processing",
+	Short: "A CLI tool for image processing: https://github.com/PrathamGhaywat/imgtool",
 	Long:  `imgtool is a powerful and fast CLI tool for converting and processing images, with support for batch operations.`,
 }
 

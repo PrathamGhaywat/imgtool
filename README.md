@@ -17,7 +17,20 @@ A powerful and fast CLI tool for image processing, built with Go, Cobra, and Vip
 - **Configuration**: Set default flag values using a `config.yaml` file.
 
 ## Installation
+### Windows
+Install the release from [here](https://github.com/PrathamGhaywat/imgtool/releases). Then add the folder in which the executable is present in your `PATH` environment variable.
 
+### Linux and macOS
+We are currently searching for a way to make the tool available for Linux and macOS. Please open an issue if you have any suggestions.
+If you would still like to use the tool on Linux and macOS, you can [build](#build) it from the source.
+
+## Documentation
+### Documentation
+
+The documentation for imgtool can be found [here](https://prathamghaywat.github.io/imgtool-docs/).
+
+
+## Build
 To build the tool from the source, you'll need to have Go installed.
 
 ```bash
